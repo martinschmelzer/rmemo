@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550672916455.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4000081840",
+    "id" : "DCBD5348",
+    "lastKnownWriteTime" : 1550674034,
+    "last_content_update" : 1550674034134,
+    "path" : "~/Dropbox/DataScience/R/WD/rmemo/R/pdf_memo.R",
+    "project_path" : "R/pdf_memo.R",
+    "properties" : {
+        "cursorPosition" : "20,73",
+        "scrollLine" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

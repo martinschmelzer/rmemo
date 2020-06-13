@@ -1,0 +1,9 @@
+---
+output: rmemo::pdf_memo
+title: "Dinner"
+from: "Author"
+to: "Recipient"
+date: "`r Sys.time()`"
+---
+
+Let us have dinner next week.

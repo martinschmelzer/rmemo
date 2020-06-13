@@ -1,0 +1,12 @@
+Package: rmemo
+Type: Package
+Title: Simple Memorandums using RMarkdown
+Version: 0.1.0
+Authors@R: c(person("Martin", "Schmelzer", email = "schmelzer.martin@gmx.de",
+                  role = c("aut", "cre")))
+Description: This package provides the output format rmemo::pdf_memo to easily create a simple memorandum.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Depends: rmarkdown
